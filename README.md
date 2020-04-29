@@ -5,7 +5,7 @@ I am a PhD student in Electrical & Computer Engineering at [Georgia Tech](https:
 While my research interests span many different areas, topics that I'm particularly interested in are:
 - Sparse, low-rank and low-dimensional approximations of data
 - Representation learning, and in particular, transferability, generalizability and interpretability of features in deep neural networks
-- Analysis and explainability of artificial and biological neural networks
+- Explainability of artificial and biological neural networks
 - Generative modeling
 
 Outside of research, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
