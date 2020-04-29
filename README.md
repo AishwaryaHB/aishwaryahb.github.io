@@ -8,4 +8,4 @@ While my research interests span many different areas, topics that I'm particula
 - Analysis and explainability of artificial and biological neural networks
 - Generative modeling
 
-Outside of research, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am extremely fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and will always be a Bom-BAE kid for life.
+Outside of research, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am extremely fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and will remain a Bombay kid for life.
