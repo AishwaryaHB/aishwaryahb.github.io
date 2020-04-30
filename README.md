@@ -6,7 +6,7 @@ Much of my current work revolves around and studies different aspects of [Repres
 Some ideas that I'm actively thinking about in this context are:
 - Sparse, low-rank and low-dimensional approximations of data.
 - Quantifying features in deep neural networks for the purposes of transfer, generalization and interpretability.
-- The effect of regularization and architecture on the features learnt by neural networks.
+- The effect of regularization and architecture on features learnt by deep neural networks.
 - Explainability of artificial and biological neural networks.
 - Multi-task/transfer/meta learning and domain adaptation.
 
