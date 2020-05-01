@@ -17,7 +17,7 @@ My long-term goal is to use math and engineering to better understand informatio
 
 ### Interests & Hobbies
 
-**Machine Learning:** Unsupervised/self-supervised learning, dimensionality reduction, generative models, metric/similarity learning and learning with structured sparsity.
+**Machine Learning:** Unsupervised/self-supervised learning, dimensionality reduction, generative models, metric/similarity learning and learning with structured sparsity.<br>
 **Mathematics:** Matrix & tensor decompositions, convex geometry, optimization, harmonic analysis, (discrete) differential geometry and information geometry.
 **Neuroscience:** Neural coding and decoding, representational learning, models of brain structure & organization and connectomics.
 
