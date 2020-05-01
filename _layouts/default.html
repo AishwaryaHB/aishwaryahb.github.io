@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>       
+        <h2 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>       
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -30,7 +30,7 @@
         <!--
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         -->
-        <h4><p class="view">Email: abalwani6@gatech.edu</p></h4>
+        <h4><p style="text-align:center" class="view">Email: abalwani6@gatech.edu</p></h4>
         {% endif %}
 
         {% if site.show_downloads %}
