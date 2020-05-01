@@ -17,30 +17,9 @@ Topics of scientific study that I'm excited about in general include unsupervise
 Outside of academic and technical pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
 
 ### Social Media
-<div class="row">
-          
-          <div class="column">
-            <a href="https://github.com/AishwaryaHB">
-              <img src="/images/GitHub-logo.png" alt="GitHub" height="42" width="42">
-            </a>
-          </div>
-          
-          <div class="column">
-            <a href="https://twitter.com/Iishiiyaa">
-              <img src="/images/twitter-logo.png" alt="Twitter" height="42" width="42">
-            </a>
-          </div>
-          
-          <div class="column">
-            <a href="https://www.linkedin.com/in/aishwaryahb">
-              <img src="/images/linkedin-logo.png" alt="LinkedIn" height="42" width="42">
-            </a>
-          </div>
-          
-          <div class="column">
-            <a href="https://www.facebook.com/aishvarrya/">
-              <img src="https://github.com/AishwaryaHB/aishwaryahb.github.io/blob/master/images/facebook-logo-2019.png" alt="Facebook" height="42" width="42">
-            </a>
-          </div>
-          
-        </div>
+<p align="middle">
+<a href="https://github.com/AishwaryaHB"><img src=/images/GitHub-logo.png" alt="GitHub" height="20" width="20" /></a>
+<a href="https://twitter.com/Iishiiyaa"><img src=/images/twitter-logo.png" alt="Twitter" height="42" width="42" /></a>
+<a href="https://www.facebook.com/aishvarrya/"><img src=/images/facebook-logo-2019.png" alt="Facebook" height="42" width="42" /></a>
+<a href="https://www.linkedin.com/in/aishwaryahb"><img src=/images/linkedin-logo.png" alt="LinkedIn" height="42" width="42" /></a>
+</p>
