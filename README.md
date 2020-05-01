@@ -17,9 +17,9 @@ Topics of scientific study that I'm excited about in general include unsupervise
 Outside of academic and technical pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
 
 ### Social Media
-<p align="middle">
-<a href="https://github.com/AishwaryaHB"><img src="/images/GitHub-logo.png" height="42" width="42" /></a>
-<a href="https://twitter.com/Iishiiyaa"><img src="/images/twitter-logo.png" height="42" width="42" /></a>
-<a href="https://www.facebook.com/aishvarrya/"><img src="/images/facebook-logo-2019.png" height="42" width="42" /></a>
-<a href="https://www.linkedin.com/in/aishwaryahb"><img src="/images/linkedin-logo.png" height="42" width="42" /></a>
+<p float="left">
+<a href="https://github.com/AishwaryaHB"><img src="/images/GitHub-logo.png" height="80" width="80" /></a>
+<a href="https://twitter.com/Iishiiyaa"><img src="/images/twitter-logo.png" height="80" width="80" /></a>
+<a href="https://www.facebook.com/aishvarrya/"><img src="/images/facebook-logo-2019.png" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/aishwaryahb"><img src="/images/linkedin-logo.png" height="80" width="80" /></a>
 </p>
