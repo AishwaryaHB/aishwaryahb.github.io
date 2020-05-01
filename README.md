@@ -18,7 +18,7 @@ My long-term goal is to use math and engineering to better understand informatio
 ### Interests & Hobbies
 
 **Machine Learning:** Unsupervised/self-supervised learning, dimensionality reduction, generative models, metric/similarity learning and learning with structured sparsity.<br>
-**Mathematics:** Matrix & tensor decompositions, convex geometry, optimization, harmonic analysis, (discrete) differential geometry and information geometry.<br>
+**Mathematics:** Matrix & tensor decompositions, metric embeddings, convex geometry, optimization, harmonic analysis, (discrete) differential geometry and information geometry.<br>
 **Neuroscience:** Neural coding and decoding, representational learning, models of brain structure & organization and connectomics.
 
 Outside of academic and scientific pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
