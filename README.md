@@ -18,8 +18,8 @@ Outside of academic and technical pursuits, my hobbies include reading, music, r
 
 ### Social Media
 <p align="middle">
-<a href="https://github.com/AishwaryaHB"><img src=/images/GitHub-logo.png" height="42" width="42" /></a>
-<a href="https://twitter.com/Iishiiyaa"><img src=/images/twitter-logo.png" height="42" width="42" /></a>
-<a href="https://www.facebook.com/aishvarrya/"><img src=/images/facebook-logo-2019.png" height="42" width="42" /></a>
-<a href="https://www.linkedin.com/in/aishwaryahb"><img src=/images/linkedin-logo.png" height="42" width="42" /></a>
+<a href="https://github.com/AishwaryaHB"><img src="/images/GitHub-logo.png" height="42" width="42" /></a>
+<a href="https://twitter.com/Iishiiyaa"><img src="/images/twitter-logo.png" height="42" width="42" /></a>
+<a href="https://www.facebook.com/aishvarrya/"><img src="/images/facebook-logo-2019.png" height="42" width="42" /></a>
+<a href="https://www.linkedin.com/in/aishwaryahb"><img src="/images/linkedin-logo.png" height="42" width="42" /></a>
 </p>
