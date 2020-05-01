@@ -1,4 +1,6 @@
-### About Me
+## Aish in a Nutshell
+
+## Research
 
 I am a PhD student in Electrical & Computer Engineering at [Georgia Tech](https://www.gatech.edu/), where I'm a member of the [NerDS Lab](https://dyerlab.gatech.edu/) as well as a part of the larger [ML@GT](https://ml.gatech.edu/) and [GT Neuro](https://neuro.gatech.edu/) research communities. I am fortunate to be advised by [Dr. Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer), with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
 
@@ -12,7 +14,7 @@ Some ideas that I'm actively thinking about in this context are:
 
 My long-term goal is to use math and engineering to better understand information processing in the brain, and to employ these insights in the development of better ML/AI systems that require less supervision and data, learn progressively, and are more amenable to changes in task structure.
 
-### General Interests
+### Interests
 
 Topics of scientific study that I'm excited about include unsupervised/self-supervised learning, dimensionality reduction, tensor decompositions, metric learning, generative models, convex geometry, optimization, harmonic analysis and information geometry.
 
