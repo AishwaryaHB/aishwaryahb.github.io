@@ -7,16 +7,19 @@ I am a PhD student in Electrical & Computer Engineering at [Georgia Tech](https:
 Much of my current work revolves around and studies different aspects of [Representation Learning](https://arxiv.org/abs/1206.5538).
 Some ideas that I'm actively thinking about in this context are:
 - Sparse, low-rank and low-dimensional approximations of data.
-- Quantifying features in deep neural networks for the purposes of transfer, generalization and interpretability.
-- The effect of regularization and architecture on features learnt by deep neural networks.
-- Explainability of artificial and biological neural networks.
-- Multi-task/transfer/meta learning and domain adaptation.
+- Quantifying features in deep neural networks for the purposes of transfer, generalization & interpretability.
+- The evolution of features in deep neural networks across space-time.
+- The effect of regularization & architecture on features learnt by deep neural networks.
+- Explainability of artificial & biological neural networks.
+- Multi-task/transfer/meta learning & domain adaptation.
 
 My long-term goal is to use math and engineering to better understand information processing in the brain, and to employ these insights in the development of better ML/AI systems that require less supervision and data, learn progressively, and are more amenable to changes in task structure.
 
 ### Interests & Hobbies
 
-Topics of scientific study that I'm excited about include unsupervised/self-supervised learning, dimensionality reduction, tensor decompositions, metric learning, generative models, convex geometry, optimization, harmonic analysis and information geometry.
+**Machine Learning: ** Unsupervised/self-supervised learning, dimensionality reduction, generative models, metric/similarity learning and learning with structured sparsity.
+**Mathematics: ** Matrix & tensor decompositions, convex geometry, optimization, harmonic analysis, (discrete) differential geometry and information geometry.
+**Neuroscience: ** Neural coding and decoding, representational learning, models of brain structure & organization and connectomics.
 
 Outside of academic and scientific pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
 
