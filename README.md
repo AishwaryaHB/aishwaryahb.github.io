@@ -23,11 +23,16 @@ My long-term goal is to use math and engineering to better understand informatio
 
 Outside of academic and scientific pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
 
+### Curriculum Vitae
+<p float="left">
+<a href="https://bit.ly/3bTpPf2"><img src="/images/cv_logo_clipart_bg_trans.png" height="40" width="40" /></a>
+</p>
+
 ### Social Media
 <p float="left">
-<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en"><img src="/images/google-scholar-logo.png" height="60" width="60" /></a>
-<a href="https://github.com/AishwaryaHB"><img src="/images/GitHub-logo-crop.png" height="60" width="60" /></a>
-<a href="https://twitter.com/Iishiiyaa"><img src="/images/twitter-logo-2.png" height="60" width="60" /></a>
-<a href="https://www.linkedin.com/in/aishwaryahb"><img src="/images/linkedin-logo-2.png" height="60" width="60" /></a>
-<a href="https://www.facebook.com/aishvarrya/"><img src="/images/facebook-logo-2019.png" height="60" width="60" /></a>
+<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en"><img src="/images/google-scholar-logo.png" height="40" width="40" /></a>
+<a href="https://github.com/AishwaryaHB"><img src="/images/GitHub-logo-crop.png" height="40" width="40" /></a>
+<a href="https://twitter.com/Iishiiyaa"><img src="/images/twitter-logo-2.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aishwaryahb"><img src="/images/linkedin-logo-2.png" height="40" width="40" /></a>
+<a href="https://www.facebook.com/aishvarrya/"><img src="/images/facebook-logo-2019.png" height="40" width="40" /></a>
 </p>
