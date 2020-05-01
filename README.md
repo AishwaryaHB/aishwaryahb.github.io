@@ -25,7 +25,7 @@ Outside of academic and scientific pursuits, my hobbies include reading, music, 
 
 ### Curriculum Vitae
 <p float="left">
-<a href="https://bit.ly/3bTpPf2"><img src="/images/cv_logo_clipart_bg_trans.png" height="40" width="40" /></a>
+<a href="https://bit.ly/3bTpPf2"><img src="/images/cv_logo_clipart_bg_trans.png" height="60" width="60" /></a>
 </p>
 
 ### Social Media
