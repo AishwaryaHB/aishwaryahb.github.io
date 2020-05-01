@@ -15,3 +15,32 @@ My long-term goal is to use math and engineering to better understand informatio
 Topics of scientific study that I'm excited about in general include unsupervised/self-supervised learning, dimensionality reduction, tensor decompositions, metric learning, generative models, convex geometry, optimization, harmonic analysis and information geometry.
 
 Outside of academic and technical pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
+
+### Social Media
+<div class="row">
+          
+          <div class="column">
+            <a href="https://github.com/AishwaryaHB">
+              <img src="/images/GitHub-logo.png" alt="GitHub" height="42" width="42">
+            </a>
+          </div>
+          
+          <div class="column">
+            <a href="https://twitter.com/Iishiiyaa">
+              <img src="/images/twitter-logo.png" alt="Twitter" height="42" width="42">
+            </a>
+          </div>
+          
+          <div class="column">
+            <a href="https://www.linkedin.com/in/aishwaryahb">
+              <img src="/images/linkedin-logo.png" alt="LinkedIn" height="42" width="42">
+            </a>
+          </div>
+          
+          <div class="column">
+            <a href="https://www.facebook.com/aishvarrya/">
+              <img src="https://github.com/AishwaryaHB/aishwaryahb.github.io/blob/master/images/facebook-logo-2019.png" alt="Facebook" height="42" width="42">
+            </a>
+          </div>
+          
+        </div>
