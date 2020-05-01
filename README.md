@@ -23,10 +23,12 @@ My long-term goal is to use math and engineering to better understand informatio
 
 Outside of academic and scientific pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
 
+<!--
 ### Curriculum Vitae
 <p float="left">
 <a href="https://bit.ly/3bTpPf2"><img src="/images/cv_logo_clipart_bg_trans.png" height="60" width="60" /></a>
 </p>
+-->
 
 ### Social Media
 <p float="left">
