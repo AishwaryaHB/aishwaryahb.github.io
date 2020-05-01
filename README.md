@@ -1,8 +1,8 @@
 ## Aish in a Nutshell
 
-## Research
-
 I am a PhD student in Electrical & Computer Engineering at [Georgia Tech](https://www.gatech.edu/), where I'm a member of the [NerDS Lab](https://dyerlab.gatech.edu/) as well as a part of the larger [ML@GT](https://ml.gatech.edu/) and [GT Neuro](https://neuro.gatech.edu/) research communities. I am fortunate to be advised by [Dr. Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer), with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
+
+### Ongoing Research
 
 Much of my current work revolves around and studies different aspects of [Representation Learning](https://arxiv.org/abs/1206.5538).
 Some ideas that I'm actively thinking about in this context are:
