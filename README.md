@@ -14,7 +14,7 @@ Some ideas that I'm actively thinking about in this context are:
 
 My long-term goal is to use math and engineering to better understand information processing in the brain, and to employ these insights in the development of better ML/AI systems that require less supervision and data, learn progressively, and are more amenable to changes in task structure.
 
-### Interests
+### Interests & Hobbies
 
 Topics of scientific study that I'm excited about include unsupervised/self-supervised learning, dimensionality reduction, tensor decompositions, metric learning, generative models, convex geometry, optimization, harmonic analysis and information geometry.
 
