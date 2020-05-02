@@ -40,7 +40,7 @@ Outside of academic and scientific pursuits, my hobbies include reading, music, 
 </p>
 -->
 
-### Social Media
+### Social Network
 <p float="left">
 <a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en" target="_blank"><img src="/images/google-scholar-logo.png" height="30" width="30" /></a>
 <a href="https://github.com/AishwaryaHB" target="_blank"><img src="/images/GitHub-logo-crop.png" height="30" width="30" /></a>
