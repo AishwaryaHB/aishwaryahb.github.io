@@ -1,6 +1,6 @@
 ### About Me
 
-I am a PhD student in Electrical & Computer Engineering at [Georgia Tech](https://www.gatech.edu/), where I'm a member of the [NerDS Lab](https://dyerlab.gatech.edu/) as well as a part of the larger [ML@GT](https://ml.gatech.edu/) and [GT Neuro](https://neuro.gatech.edu/) research communities. I have the pleasure of being advised by [Dr. Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer), with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
+I am a PhD student in Electrical & Computer Engineering at [Georgia Tech](https://www.gatech.edu/), where I'm a member of the [NerDS Lab](https://dyerlab.gatech.edu/) as well as a part of the larger [ML@GT](https://ml.gatech.edu/) and [GT Neuro](https://neuro.gatech.edu/) research communities. I have the privilege of being advised by [Dr. Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer), with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
 
 ### Ongoing Research
 
@@ -23,7 +23,7 @@ My long-term goal is to use math and engineering to better understand informatio
 - November 2019: I had the pleasure of attending the Banach Center - Oberwolfach Graduate Seminar on <a href="https://www.mfo.de/occasion/1947a" target="_blank">Mathematics of Deep Learning</a> in Poznan, Poland!
 - November 2019: We presented our work on <a href="https://ieeexplore.ieee.org/document/9048805" target="_blank">modeling variability in brain architecture with deep feature learning</a> at Asilomar CSSC 2019!
 - October 2019: Our review article on <a href="https://www.sciencedirect.com/science/article/pii/S2468451119300625" target="_blank">brain mapping at high resolutions</a> is out in COBME!
-- October 2019: I had 2 peer reviewed abstracts at <a href="https://alleninstitute.org/media/filer_public/38/be/38be5b2f-e678-45c0-9608-069116238488/bioimage2019_fullprogram_asof96.pdf" target="_blank">BioImage Informatics 2019</a> in Seattle, WA.
+- October 2019: I was a part of 2 peer reviewed abstracts & posters presented at <a href="https://alleninstitute.org/media/filer_public/38/be/38be5b2f-e678-45c0-9608-069116238488/bioimage2019_fullprogram_asof96.pdf" target="_blank">BioImage Informatics 2019</a> in Seattle, WA.
 
 ### Interests & Hobbies
 
