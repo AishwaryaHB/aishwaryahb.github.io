@@ -18,7 +18,7 @@ My long-term goal is to use math and engineering to better understand informatio
 ### Recent News
 
 - April 2020: We recently submitted our work on discovery of microstructure in brain imagery using deep learning, a.k.a <a href="https://nerdslab.github.io/deepbraindisco/" target="_blank">DeepBrainDisco</a>!
-- April 2020: April 2020: Our paper, "A three-dimensional thalamocortical dataset for characterizing brain heterogeneity" is under review at Nature Scientific Data. We've also made the <a href="http://bossdb.org/project/prasad2020" target="_blank">data</a> publicly available!
+- April 2020: April 2020: Our paper, "A three-dimensional thalamocortical dataset for characterizing brain heterogeneity" is under review at Nature Scientific Data. We've also made the <a href="http://bossdb.org/project/prasad2020" target="_blank">dataset</a> publicly available!
 - April 2020: I served as a reviewer for the <a href="https://sites.google.com/view/clvision2020" target="_blank">Workshop on Continual Learning in Computer Vision</a> at CVPR 2020.
 - November 2019: I had the pleasure of attending the Banach Center - Oberwolfach Graduate Seminar on <a href="https://www.mfo.de/occasion/1947a" target="_blank">Mathematics of Deep Learning</a> in Pozna\'{n}, Poland!
 - November 2019: We presented our work on <a href="https://ieeexplore.ieee.org/document/9048805" target="_blank">modeling variability in brain architecture with deep feature learning</a> at Asilomar CSSC 2019!
