@@ -1,10 +1,10 @@
 ### About Me
 
-I am a PhD student in Electrical & Computer Engineering at [Georgia Tech](https://www.gatech.edu/), where I'm a member of the [NerDS Lab](https://dyerlab.gatech.edu/) as well as a part of the larger [ML@GT](https://ml.gatech.edu/) and [GT Neuro](https://neuro.gatech.edu/) research communities. I have the privilege of being advised by [Dr. Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer), with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
+I am a PhD student in Electrical & Computer Engineering at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where I'm a member of the [NerDS Lab](https://dyerlab.gatech.edu/) as well as a part of the larger <a href="https://ml.gatech.edu/" target="_blank">ML@GT</a> and <a href="https://neuro.gatech.edu/" target="_blank">GT Neuro</a> research communities. I have the privilege of being advised by <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a>, with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
 
 ### Ongoing Research
 
-Much of my current work revolves around and studies different aspects of [Representation Learning](https://arxiv.org/abs/1206.5538).
+Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a>.
 Some ideas that I'm actively thinking about in this context are:
 - Sparse, low-rank and low-dimensional approximations of data.
 - Quantifying features in deep neural networks for the purposes of transfer, generalization & interpretability.
@@ -42,9 +42,9 @@ Outside of academic and scientific pursuits, my hobbies include reading, music, 
 
 ### Social Media
 <p float="left">
-<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en"><img src="/images/google-scholar-logo.png" height="30" width="30" /></a>
-<a href="https://github.com/AishwaryaHB"><img src="/images/GitHub-logo-crop.png" height="30" width="30" /></a>
-<a href="https://twitter.com/Iishiiyaa"><img src="/images/twitter-logo-2.png" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/aishwaryahb"><img src="/images/linkedin-logo-2.png" height="30" width="30" /></a>
-<a href="https://www.facebook.com/aishvarrya/"><img src="/images/facebook-logo-2019.png" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en" target="_blank"><img src="/images/google-scholar-logo.png" height="30" width="30" /></a>
+<a href="https://github.com/AishwaryaHB" target="_blank"><img src="/images/GitHub-logo-crop.png" height="30" width="30" /></a>
+<a href="https://twitter.com/Iishiiyaa" target="_blank"><img src="/images/twitter-logo-2.png" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/aishwaryahb" target="_blank"><img src="/images/linkedin-logo-2.png" height="30" width="30" /></a>
+<a href="https://www.facebook.com/aishvarrya/" target="_blank"><img src="/images/facebook-logo-2019.png" height="30" width="30" /></a>
 </p>
