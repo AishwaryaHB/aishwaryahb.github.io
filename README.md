@@ -21,7 +21,7 @@ My long-term goal is to use math & engineering to better understand information 
 - April 2020: Our paper, "A three-dimensional thalamocortical dataset for characterizing brain heterogeneity" is under review in Nature Scientific Data. We've also made the <a href="http://bossdb.org/project/prasad2020" target="_blank">dataset</a> publicly available!
 - April 2020: I served as a reviewer for the <a href="https://sites.google.com/view/clvision2020" target="_blank">Workshop on Continual Learning in Computer Vision</a> at CVPR 2020.
 - November 2019: I had the pleasure of attending the Banach Center - Oberwolfach Graduate Seminar on <a href="https://www.mfo.de/occasion/1947a" target="_blank">Mathematics of Deep Learning</a> in Poznan, Poland!
-- November 2019: We presented our work, "<a href="https://ieeexplore.ieee.org/document/9048805" target="_blank">Modeling variability in brain architecture with deep feature learning</a>" at Asilomar (ACSSC) 2019!
+- November 2019: We presented our work, "<a href="https://ieeexplore.ieee.org/document/9048805" target="_blank">Modeling variability in brain architecture with deep feature learning</a>" at Asilomar 2019!
 - October 2019: Our review article on <a href="https://www.sciencedirect.com/science/article/pii/S2468451119300625" target="_blank">brain mapping at high resolutions</a> is out in COBME!
 - October 2019: I was a part of 2 posters presented at <a href="https://alleninstitute.org/media/filer_public/38/be/38be5b2f-e678-45c0-9608-069116238488/bioimage2019_fullprogram_asof96.pdf" target="_blank">BioImage Informatics 2019</a> in Seattle, WA.
 
