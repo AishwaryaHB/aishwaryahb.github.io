@@ -42,9 +42,9 @@ Outside of academic and scientific pursuits, my hobbies include reading, music, 
 
 ### Social Network
 <p float="left">
-<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en" target="_blank"><img src="/images/google-scholar-logo.png" height="30" width="30" /></a>
-<a href="https://github.com/AishwaryaHB" target="_blank"><img src="/images/GitHub-logo-crop.png" height="30" width="30" /></a>
-<a href="https://twitter.com/Iishiiyaa" target="_blank"><img src="/images/twitter-logo-2.png" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/aishwaryahb" target="_blank"><img src="/images/linkedin-logo-2.png" height="30" width="30" /></a>
-<a href="https://www.facebook.com/aishvarrya/" target="_blank"><img src="/images/facebook-logo-2019.png" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en" target="_blank"><img src="/images/google-scholar-logo.png" height="30" width="30" title="Google Scholar" /></a>
+<a href="https://github.com/AishwaryaHB" target="_blank"><img src="/images/GitHub-logo-crop.png" height="30" width="30" title="GitHub" /></a>
+<a href="https://twitter.com/Iishiiyaa" target="_blank"><img src="/images/twitter-logo-2.png" height="30" width="30" title="Twitter" /></a>
+<a href="https://www.linkedin.com/in/aishwaryahb" target="_blank"><img src="/images/linkedin-logo-2.png" height="30" width="30" title="LinkedIn" /></a>
+<a href="https://www.facebook.com/aishvarrya/" target="_blank"><img src="/images/facebook-logo-2019.png" height="30" width="30" title="Facebook" /></a>
 </p>
