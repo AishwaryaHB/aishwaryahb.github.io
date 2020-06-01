@@ -7,7 +7,7 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a>.
 Some ideas that I'm actively thinking about in this context are:
 - Sparse, low-rank and low-dimensional approximations of data.
-- Quantifying representations in deep neural networks (in a geometric sense), and their evolution across space-time.
+- Quantifying representations in deep neural networks (geometrically), and their evolution across space-time.
 - The effect of regularization & architecture on representations learnt by deep neural networks.
 - Explainability of artificial & biological neural networks.
 - Multi-task/transfer/meta learning & domain adaptation.
