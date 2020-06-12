@@ -16,6 +16,7 @@ My long-term goal is to use math & engineering to better understand information 
 
 ### Recent News
 
+- June 2020: I am serving as a reviewer for the <a href="https://lifelongml.github.io/" target="_blank">Lifelong Learning Workshop</a> at ICML 2020.
 - May 2020: We recently submitted our work on discovery of microstructure in brain imagery using deep learning, a.k.a <a href="https://nerdslab.github.io/deepbraindisco/" target="_blank">DeepBrainDisco</a>! The <a href="https://www.biorxiv.org/content/10.1101/2020.05.26.117473v1" target="_blank">preprint</a> is now available on bioRxiv.
 - April 2020: Our paper, "<a href="https://www.biorxiv.org/content/10.1101/2020.05.22.111617v1" target="_blank">A three-dimensional thalamocortical dataset for characterizing brain heterogeneity</a>" is under review in Nature Scientific Data. We've also made the <a href="http://bossdb.org/project/prasad2020" target="_blank">dataset</a> publicly available!
 - April 2020: I served as a reviewer for the <a href="https://sites.google.com/view/clvision2020" target="_blank">Workshop on Continual Learning in Computer Vision</a> at CVPR 2020.
