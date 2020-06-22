@@ -16,7 +16,7 @@ My long-term goal is to use math & engineering to better understand information 
 
 ### Recent News
 
-- July 2020: We will be presenting a 4-pg version of Deep Brain Discovery at the <a href="https://sites.google.com/view/mli4sd-icml2020/home" target="_blank">ML Interpretability for Scientific Discovery</a> workshop at <a href="https://icml.cc/Conferences/2020/Dates" target="_blank">ICML 2020</a>!
+- July 2020: We will be presenting a 4-pg version of Deep Brain Discovery at the <a href="https://sites.google.com/view/mli4sd-icml2020/home" target="_blank">ML Interpretability for Scientific Discovery</a> workshop at ICML 2020!
 - June 2020: I am volunteering as a content reviewer at <a href="https://neuromatch.io/academy/" target="_blank">Neuromatch Academy 2020</a>!
 - June 2020: I am serving as a reviewer for the <a href="https://lifelongml.github.io/" target="_blank">Lifelong Learning Workshop</a> at ICML 2020.
 - May 2020: Our work on discovery of microstructure in brain imagery using deep learning, a.k.a <a href="https://nerdslab.github.io/deepbraindisco/" target="_blank">DeepBrainDisco</a> is under review in Nature Communications! The <a href="https://www.biorxiv.org/content/10.1101/2020.05.26.117473v1" target="_blank">preprint</a> is now available on bioRxiv.
