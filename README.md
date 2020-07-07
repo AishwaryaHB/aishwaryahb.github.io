@@ -16,7 +16,7 @@ My long-term goal is to use math & engineering to better understand information 
 
 ### Recent News
 
-- July 2020: We will be presenting a <a href="/docs/papers/Balwani_ICML_Interpretability_Workshop_2020.pdf" target="_blank">4-pg version</a> of Deep Brain Discovery at the <a href="https://sites.google.com/view/mli4sd-icml2020/home" target="_blank">ML Interpretability for Scientific Discovery</a> workshop at ICML 2020! I will also be in (virtual) attendance at the main conference and tutorials thanks to the ICML Diversity and Inclusion Fellowship. 
+- July 2020: We will be presenting a <a href="/docs/papers/Balwani_ICML_Interpretability_Workshop_2020.pdf" target="_blank">4-pg version</a> of Deep Brain Discovery at the <a href="https://sites.google.com/view/mli4sd-icml2020/home" target="_blank">ML Interpretability for Scientific Discovery</a> workshop at ICML 2020! I will also be in attendance at the main conference and tutorials thanks to the ICML Diversity and Inclusion Fellowship. 
 - June 2020: Our paper, "<a href="https://www.biorxiv.org/content/10.1101/2020.06.04.134635v1.abstract" target="_blank">A generative modeling approach for interpreting population-level variability in brain structure</a>" has been accepted to MICCAI 2020!
 - June 2020: I volunteered as a content reviewer at <a href="https://neuromatch.io/academy/" target="_blank">Neuromatch Academy 2020</a>.
 - June 2020: I served as a reviewer for the <a href="https://lifelongml.github.io/" target="_blank">Lifelong Learning Workshop</a> at ICML 2020.
