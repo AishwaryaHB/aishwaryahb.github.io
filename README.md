@@ -18,15 +18,11 @@ My long-term goal is to use math & engineering to better understand information 
 
 - July 2020: We presented a <a href="/docs/papers/Balwani_ICML_Interpretability_Workshop_2020.pdf" target="_blank">4-pg version</a> of Deep Brain Discovery at the <a href="https://sites.google.com/view/mli4sd-icml2020/program?authuser=0#h.fyakn5jvpae2" target="_blank">ML Interpretability for Scientific Discovery</a> workshop at ICML 2020! I was also in attendance at the main conference and tutorials as a recipient of the ICML Diversity and Inclusion Fellowship. 
 - June 2020: Our paper, "<a href="https://www.biorxiv.org/content/10.1101/2020.06.04.134635v1.abstract" target="_blank">A generative modeling approach for interpreting population-level variability in brain structure</a>" has been accepted to MICCAI 2020! Code and data are available <a href="https://nerdslab.github.io/brainsynth/" target="_blank">here</a>.
-<!--
-- June 2020: I volunteered as a content reviewer at <a href="https://neuromatch.io/academy/" target="_blank">Neuromatch Academy 2020</a>.
-- June 2020: I served as a reviewer for the <a href="https://lifelongml.github.io/" target="_blank">Lifelong Learning Workshop</a> at ICML 2020.
--->
+<!-- - June 2020: I volunteered as a content reviewer at <a href="https://neuromatch.io/academy/" target="_blank">Neuromatch Academy 2020</a>.
+- June 2020: I served as a reviewer for the <a href="https://lifelongml.github.io/" target="_blank">Lifelong Learning Workshop</a> at ICML 2020. -->
 - May 2020: Our work on discovery of microstructure in brain imagery using deep learning, a.k.a <a href="https://nerdslab.github.io/deepbraindisco/" target="_blank">DeepBrainDisco</a> is under review in Nature Communications! The <a href="https://www.biorxiv.org/content/10.1101/2020.05.26.117473v1" target="_blank">preprint</a> is now available on bioRxiv.
 - April 2020: Our paper, "<a href="https://www.biorxiv.org/content/10.1101/2020.05.22.111617v1" target="_blank">A three-dimensional thalamocortical dataset for characterizing brain heterogeneity</a>" is under review in Nature Scientific Data. We've also made the <a href="http://bossdb.org/project/prasad2020" target="_blank">dataset</a> publicly available!
-<!--
-- April 2020: I served as a reviewer for the <a href="https://sites.google.com/view/clvision2020" target="_blank">Workshop on Continual Learning in Computer Vision</a> at CVPR 2020.
--->
+<!-- - April 2020: I served as a reviewer for the <a href="https://sites.google.com/view/clvision2020" target="_blank">Workshop on Continual Learning in Computer Vision</a> at CVPR 2020. -->
 - November 2019: I had the pleasure of attending the Banach Center - Oberwolfach Graduate Seminar on <a href="https://www.mfo.de/occasion/1947a" target="_blank">Mathematics of Deep Learning</a> in Poznań, Poland!
 - November 2019: We presented our work, "<a href="https://ieeexplore.ieee.org/document/9048805" target="_blank">Modeling variability in brain architecture with deep feature learning</a>" at Asilomar 2019!
 - October 2019: Our review article on <a href="https://www.sciencedirect.com/science/article/pii/S2468451119300625" target="_blank">brain mapping at high resolutions</a> is out in COBME!
