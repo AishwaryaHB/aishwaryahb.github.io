@@ -4,15 +4,14 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 ### Ongoing Research
 
-Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a>.
-Some ideas that I'm actively thinking about in this context are:
+Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a> with an eye on  explainability of (artificial & biological) neural networks. In particular I look to leverage the geometric structure of representations found in complex, hierarchical information processing systems so as to render them more interpretable and thereby discover their governing principles.
+Some ideas and applications that I actively think about in these contexts are:
 - Sparse, low-rank and low-dimensional approximations of data.
-- Quantifying representations in deep neural networks (geometrically), and their evolution across space-time.
-- The effect of regularization & architecture on representations learnt by deep neural networks.
-- Explainability of artificial & biological neural networks.
-- Multi-task/transfer/meta learning & domain adaptation.
+- Disentangling of data manifolds, the quantification of representations that live on them, and their evolution across space-time.
+- The effects of regularization & architecture on representations learnt by neural networks.
+- Generalizability and potential for transfer of representations across different tasks and domains.
 
-My long-term goal is to use math & engineering to better understand information processing in the brain, and to employ these insights in the development of better ML/AI systems that require less supervision & data, learn progressively, and are more amenable to changes in task structure.
+My long-term goal is to use math & engineering to develop computational methods that effectively characterize changes in structure, organization & information processing in the brain across different stages of neurological age, health, and development. I susequently hope to employ these insights in the development of better ML/AI systems that require less supervision & data, learn progressively, and are more amenable to changes in task structure.
 
 ### Recent News
 
