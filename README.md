@@ -6,12 +6,12 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a> with an eye towards  explainability of complex, hierarchical information processing systems. In particular I look to leverage the geometric structure of representations found in (artificial & biological) neural networks so as to render them more interpretable and thereby discover their governing principles.
 Some ideas that I actively think about in these contexts are:
-- Sparse, low-rank and low-dimensional approximations of data.
+- Sparse, low-rank, and low-dimensional approximations of data.
 - Disentangling of data manifolds, the quantification of representations that live on them, their evolution across space-time, and the changes that different perturbations bring about in them.
 - The effects of regularization & architecture on representations learnt by neural networks.
 - Generalizability and potential for transfer of representations across different tasks and domains.
 
-My long-term goal is to use math & engineering to develop computational methods that effectively characterize changes in structure, organization & information processing in the brain across different stages of neurological age, health, and development. I subsequently hope to employ these insights in the development of better ML/AI systems that require less supervision & data, learn progressively, and are more amenable to changes in task structure.
+My long-term goal is to use math & engineering to develop computational methods that effectively characterize changes in structure, organization, and information processing in the brain across different stages of neurological age, health, and development. I subsequently hope to employ these insights in the development of better ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure.
 
 ### Recent News
 
