@@ -11,7 +11,7 @@ Some ideas and applications that I actively think about in these contexts are:
 - The effects of regularization & architecture on representations learnt by neural networks.
 - Generalizability and potential for transfer of representations across different tasks and domains.
 
-My long-term goal is to use math & engineering to develop computational methods that effectively characterize changes in structure, organization & information processing in the brain across different stages of neurological age, health, and development. I susequently hope to employ these insights in the development of better ML/AI systems that require less supervision & data, learn progressively, and are more amenable to changes in task structure.
+My long-term goal is to use math & engineering to develop computational methods that effectively characterize changes in structure, organization & information processing in the brain across different stages of neurological age, health, and development. I subsequently hope to employ these insights in the development of better ML/AI systems that require less supervision & data, learn progressively, and are more amenable to changes in task structure.
 
 ### Recent News
 
