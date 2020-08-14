@@ -4,7 +4,7 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 ### Ongoing Research
 
-Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a> with an eye towards  explainability of complex, hierarchical information processing systems. In particular I look to leverage the geometric structure of representations found in (artificial & biological) neural networks so as to render them more interpretable and thereby discover their governing principles.
+Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a> with an eye towards  explaining complex, hierarchical information processing systems. In particular I look to leverage the geometric structure of representations found in both _artificial & biological_ neural networks so as to render them more interpretable, and thereby discover their governing principles.
 Some ideas that I actively think about in these contexts are:
 - Sparse, low-rank, and low-dimensional approximations of data.
 - Disentangling of data manifolds, the quantification of representations that live on them, their evolution across space-time, and the changes that different perturbations bring about in them.
