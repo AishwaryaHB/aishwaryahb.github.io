@@ -13,7 +13,7 @@ Some ideas that I actively think about in these contexts are:
 
 My long-term goal is to use math & engineering to develop computational methods that effectively characterize changes in structure, organization, and information processing in the brain across different stages of neurological age, health, and development. I subsequently hope to employ these insights in the development of better ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure.
 
-### Recent News
+### Recent-ish News
 
 - July 2020: We presented a <a href="/docs/papers/Balwani_ICML_Interpretability_Workshop_2020.pdf" target="_blank">4-pg version</a> of Deep Brain Discovery at the <a href="https://sites.google.com/view/mli4sd-icml2020/program?authuser=0#h.fyakn5jvpae2" target="_blank">ML Interpretability for Scientific Discovery</a> workshop at <a href="https://icml.cc/" target="_blank">ICML 2020</a>! I was also in attendance at the main conference and tutorials as a recipient of the ICML Diversity and Inclusion Fellowship. 
 - June 2020: Our paper, "<a href="https://www.biorxiv.org/content/10.1101/2020.06.04.134635v1.abstract" target="_blank">A generative modeling approach for interpreting population-level variability in brain structure</a>" has been accepted to <a href="https://www.miccai2020.org/en/" target="_blank">MICCAI 2020</a>! Code and data are available <a href="https://nerdslab.github.io/brainsynth/" target="_blank">here</a>.
