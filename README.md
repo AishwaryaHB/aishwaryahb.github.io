@@ -33,9 +33,9 @@ Recent news archives:
 
 ### Interests & Hobbies
 
-**Machine Learning:** Unsupervised/self-supervised learning, dimensionality reduction & manifold learning, generative models, metric/similarity learning, reinforcement learning, and learning with structured sparsity.<br>
-**Mathematics:** Matrix & tensor decompositions, column subset selection, low-rank approximation, metric embeddings, convex geometry, optimization, harmonic analysis, group & representation theory, (discrete) differential geometry, and information geometry.<br>
-**Neuroscience:** Neural coding & decoding, reinforcement learning, representational learning, models of brain structure & organization, and connectomics.
+**Machine Learning:** Unsupervised/self-supervised learning, dimensionality reduction & manifold learning, generative models, metric/similarity learning, and learning with structured sparsity.<br>
+**Mathematics:** Matrix & tensor decompositions, column subset selection, low-rank approximation, metric embeddings, convex geometry, optimization, group & representation theory, differential topology, and information geometry.<br>
+**Neuroscience:** Neural coding & decoding, representational learning, models of brain structure & organization, and connectomics.
 
 Outside of academic and scientific pursuits, my hobbies include reading, music, racket sports and the rubik's cube along with its many variants. I am incredibly fond of cats, enjoy history of almost any kind, have been a Federer fan for far too long, and remain a Bombay kid at heart for life.
 
