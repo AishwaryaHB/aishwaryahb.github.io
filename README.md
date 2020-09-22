@@ -1,8 +1,8 @@
-## About Me
+### About Me
 
 I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where I'm a member of the <a href="https://dyerlab.gatech.edu/" target="_blank">NerDS Lab</a> as well as part of the larger <a href="https://ml.gatech.edu/" target="_blank">ML@GT</a> and <a href="https://neuro.gatech.edu/" target="_blank">GT Neuro</a> research communities. I have the privilege of being advised by <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a>, with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
 
-## Ongoing Research
+### Ongoing Research
 
 Much of my current work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">Representation Learning</a> with an eye towards  explaining complex, hierarchical information processing systems. In particular I look to leverage the geometric structure of representations found in both _artificial & biological_ neural networks so as to render them more interpretable, and thereby discover their governing principles.
 Some ideas that I actively think about in these contexts are:
@@ -13,7 +13,7 @@ Some ideas that I actively think about in these contexts are:
 
 My long-term goal is to use math & engineering to develop computational methods that effectively characterize changes in structure, organization, and information processing in the brain across different stages of neurological age, health, and development. I subsequently hope to employ these insights in the development of better ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure.
 
-## Recent-ish News
+### Recent-ish News
 
 - September 2020: Our paper, "<a href="https://www.biorxiv.org/content/10.1101/2020.05.22.111617v1" target="_blank">A three-dimensional thalamocortical dataset for characterizing brain heterogeneity</a>" has been accepted to Nature Scientific Data! You can also take a look at our publicly available <a href="http://bossdb.org/project/prasad2020" target="_blank">dataset</a>.
 - July 2020: We presented a <a href="/docs/papers/Balwani_ICML_Interpretability_Workshop_2020.pdf" target="_blank">4-pg version</a> of Deep Brain Discovery at the <a href="https://sites.google.com/view/mli4sd-icml2020/program?authuser=0#h.fyakn5jvpae2" target="_blank">ML Interpretability for Scientific Discovery</a> workshop at <a href="https://icml.cc/" target="_blank">ICML 2020</a>! I was also in attendance at the main conference and tutorials as a recipient of the ICML Diversity and Inclusion Fellowship. 
@@ -31,7 +31,7 @@ Recent news archives:
 - June 2020: I served as a reviewer for the <a href="https://lifelongml.github.io/" target="_blank">Lifelong Learning Workshop</a> at ICML 2020.
 -->
 
-## Interests & Hobbies
+### Interests & Hobbies
 
 **Machine Learning:** Unsupervised/self-supervised learning, dimensionality reduction & manifold learning, generative models, metric/similarity learning, and learning with structured sparsity.<br>
 **Mathematics:** Matrix & tensor decompositions, column subset selection, low-rank approximation, metric embeddings, convex geometry, optimization, group & representation theory, differential topology, and information geometry.<br>
@@ -46,7 +46,7 @@ Outside of academic and scientific pursuits, my hobbies include reading, music, 
 </p>
 -->
 
-## Social Network
+### Social Network
 <p float="left">
 <a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en" target="_blank"><img src="/images/google-scholar-logo.png" height="30" width="30" /></a>
 <a href="https://github.com/AishwaryaHB" target="_blank"><img src="/images/GitHub-logo-crop.png" height="30" width="30" /></a>
