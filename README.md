@@ -22,14 +22,14 @@ My long-term goal is to use math & engineering to develop computational methods 
 - May 2020: Our <a href="https://www.biorxiv.org/content/10.1101/2020.05.26.117473v1" target="_blank">preprint</a> on discovery of microstructure in brain imagery using deep learning, a.k.a <a href="https://nerdslab.github.io/deepbraindisco/" target="_blank">DeepBrainDisco</a> is is now up on bioRxiv!
 - November 2019: I had the pleasure of attending the Banach Center - Oberwolfach Graduate Seminar on <a href="https://www.mfo.de/occasion/1947a" target="_blank">Mathematics of Deep Learning</a> in Poznań, Poland!
 - November 2019: We presented our work, "<a href="https://ieeexplore.ieee.org/document/9048805" target="_blank">Modeling variability in brain architecture with deep feature learning</a>" at Asilomar 2019 in the Deep Learning & Neuroscience session!
-- October 2019: Our review article on <a href="https://www.sciencedirect.com/science/article/pii/S2468451119300625" target="_blank">brain mapping at high resolutions</a> is out in COBME!
-- October 2019: I contributed to 2 extended abstracts presented at <a href="https://alleninstitute.org/media/filer_public/38/be/38be5b2f-e678-45c0-9608-069116238488/bioimage2019_fullprogram_asof96.pdf" target="_blank">BioImage Informatics 2019</a> in Seattle, WA.
 
 <!--
 Recent news archives:
 - April 2020: I served as a reviewer for the <a href="https://sites.google.com/view/clvision2020" target="_blank">Workshop on Continual Learning in Computer Vision</a> at CVPR 2020.
 - June 2020: I volunteered as a content reviewer at <a href="https://neuromatch.io/academy/" target="_blank">Neuromatch Academy 2020</a>.
 - June 2020: I served as a reviewer for the <a href="https://lifelongml.github.io/" target="_blank">Lifelong Learning Workshop</a> at ICML 2020.
+- October 2019: Our review article on <a href="https://www.sciencedirect.com/science/article/pii/S2468451119300625" target="_blank">brain mapping at high resolutions</a> is out in COBME!
+- October 2019: I contributed to 2 extended abstracts presented at <a href="https://alleninstitute.org/media/filer_public/38/be/38be5b2f-e678-45c0-9608-069116238488/bioimage2019_fullprogram_asof96.pdf" target="_blank">BioImage Informatics 2019</a> in Seattle, WA.
 -->
 
 ### Interests & Hobbies
