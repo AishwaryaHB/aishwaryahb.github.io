@@ -1,6 +1,6 @@
 ### About Me
 
-I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where I'm a member of the <a href="https://dyerlab.gatech.edu/" target="_blank">NerDS Lab</a> as well as part of the larger <a href="https://ml.gatech.edu/" target="_blank">ML@GT</a> and <a href="https://neuro.gatech.edu/" target="_blank">GT Neuro</a> research communities. I have the privilege of being advised by <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a>, with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing and machine learning.
+I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where I'm a member of the <a href="https://dyerlab.gatech.edu/" target="_blank">NerDS Lab</a> as well as part of the larger <a href="https://ml.gatech.edu/" target="_blank">ML@GT</a> and <a href="https://neuro.gatech.edu/" target="_blank">GT Neuro</a> research communities. I have the privilege of being advised by <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a>, with whom I work on addressing open questions in computational neuroscience using tools from applied mathematics, digital signal processing, and machine learning.
 
 ### Ongoing Research
 
