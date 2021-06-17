@@ -19,6 +19,7 @@ My long-term goal is to use math & engineering to develop computational methods 
 
 ### Recent-ish News
 
+- June 2021: Our paper on multi-task learning for <a href="/docs/papers/ICIP_2021___XRay_MTL.pdf" target="_blank">multi-scale modelling of neural structure</a> in X-ray imagery will be appearing at <a href="https://2021.ieeeicip.org/Papers/AcceptedPapers.asp" target="_blank">ICIP 2021</a>!
 - March 2021: I led a mini-project titled <a href="/docs/papers/CAB_First_Project.pdf" target="_blank">Modeling Visual Invariance with Symmetry Regularization</a> as part of my coursework for <a href="http://computationandbrain.wordpress.com/" target="_blank">Computation and the Brain</a>. Code (hopefully) coming soon!
 - December 2020: I proposed and my committee said yes! The <a href="https://docs.google.com/presentation/d/1CwdIcPrBHtIGCnvnLMVvNSehDLcfvrzMZlBzTPdyTfA/edit#slide=id.gaf67c39d40_0_0" target="_blank">slides</a> of my talk are publicly accessible.
 - October 2020: Our paper, "<a href="https://www.nature.com/articles/s41597-020-00692-y" target="_blank">A three-dimensional thalamocortical dataset for characterizing brain heterogeneity</a>" is now up in <a href = "https://www.nature.com/sdata/" target="_blank">Nature Scientific Data</a>! You can also take a look at our publicly available <a href="http://bossdb.org/project/prasad2020" target="_blank">dataset</a>.
