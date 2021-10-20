@@ -19,7 +19,7 @@ My long-term goal is to use math & engineering to develop computational methods 
 
 ### Recent-ish News
 
-- October 2021: New preprint on <a href="https://arxiv.org/abs/2110.08447" target="_blank">detecting attacks on DNNs</a> using robust statistics available on arXiv! Joint work with <a href="https://www.linkedin.com/in/chandramouli-amarnath-40285a117" target="_blank">Chandramouli Amarnath</a>.
+- October 2021: New preprint on <a href="https://arxiv.org/abs/2110.08447" target="_blank">detecting attacks on DNNs</a> using robust statistics up on arXiv! Joint work with <a href="https://www.linkedin.com/in/chandramouli-amarnath-40285a117" target="_blank">Chandramouli Amarnath</a>.
 - July 2021: I had a great time participating in the <a href="https://www.logml.ai/" target="_blank">London Geometry and Machine Learning Summer School</a> and studying the topological properties of deep autoencoders  with <a href="https://kellyspendlove.github.io/" target="_blank">Dr. Kelly Spendlove</a> and co.
 - June 2021: Our paper on multi-task learning for <a href="/docs/papers/ICIP_2021___XRay_MTL.pdf" target="_blank">multi-scale modelling of neural structure</a> in X-ray imagery will be appearing at <a href="https://2021.ieeeicip.org/Papers/AcceptedPapers.asp" target="_blank">ICIP 2021</a>!
 - March 2021: I led a mini-project titled <a href="/docs/papers/CAB_First_Project.pdf" target="_blank">Modeling Visual Invariance with Symmetry Regularization</a> as part of my coursework for <a href="http://computationandbrain.wordpress.com/" target="_blank">Computation and the Brain</a>. Code (hopefully) coming soon!
