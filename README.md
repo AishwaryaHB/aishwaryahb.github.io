@@ -1,6 +1,7 @@
 ### About Me
 
 I am a PhD candidate in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, largely interested in characterizing learning and intelligence in artificial and biological systems. Towards these ends, I spend my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
+I am primarily work with <a href="https://hannahchoi.math.gatech.edu/people/about-hannah-choi/" target="_blank">Dr. Hannah Choi</a> and am co-advised by <a href="https://siplab.gatech.edu/rozell.html" target="_blank">Dr. Chris Rozell</a>. 
 
 <!--
 I'm associated with the <a href="https://ml.gatech.edu/" target="_blank">ML@GT</a> and <a href="https://neuro.gatech.edu/" target="_blank">GT Neuro</a> research communities, and have previously worked closely with <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a>.
