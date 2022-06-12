@@ -21,6 +21,7 @@ My long-term goal is to use math & engineering to develop computational methods 
 ### Recent-ish News
 - June 2022: I will be spending my summer in NYC at the Flatiron Institute's <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/" target="_blank">Center for Computational Neuroscience</a>, working with <a href="https://sites.google.com/site/sueyeonchung/" target="_blank">Dr. SueYeon Chung</a>!
 - October 2021: New preprint on <a href="https://arxiv.org/abs/2110.08447" target="_blank">detecting attacks on DNNs</a> using robust statistics up on arXiv! Joint work with <a href="https://www.linkedin.com/in/chandramouli-amarnath-40285a117" target="_blank">Chandramouli Amarnath</a>.
+
 <!--
 Recent news archives:
 - July 2021: I had a great time participating in the <a href="https://www.logml.ai/" target="_blank">London Geometry and Machine Learning Summer School</a> and studying the topological properties of deep autoencoders  with <a href="https://kellyspendlove.github.io/" target="_blank">Dr. Kelly Spendlove</a> and co.
