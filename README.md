@@ -52,7 +52,7 @@ Recent news archives:
 **Mathematics:** Matrix & tensor decompositions, column subset selection, low-rank approximation, metric embeddings, convex geometry, optimization, group & representation theory, differential geometry & topology, and information geometry.<br>
 **Neuroscience:** Neural (i.e., population and sparse) coding, predictive coding, synaptic plasticity & learning rules, models of brain structure & organization, and connectomics.
 
-Outside of academic and scientific pursuits, my hobbies include reading 📖, listening to + studying classical music 🎼, watching + playing racquet sports 🎾, and solving every Rubik's cube variant 🎲 I can get my hands on. I am incredibly fond of cats 🐈, enjoy history 📜 of almost any kind, still identify as an ardent Federer fan 💜, and remain a Bombay kid 🌏🏠👶 at heart for life.
+Outside of academic and scientific pursuits, my hobbies include reading 📖, listening to + studying classical music 🎼, watching + playing racquet sports 🎾, trying (and often failing) to keep up with cool movies + TV shows 🎥, and solving every Rubik's cube variant 🎲 I can get my hands on. I am incredibly fond of cats 🐈, enjoy history 📜 of almost any kind, still identify as an ardent Federer fan 💜, and remain a Bombay kid 🌏🏠👶 at heart for life.
 
 <!--
 ### Curriculum Vitae
