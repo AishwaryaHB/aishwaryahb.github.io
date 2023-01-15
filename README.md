@@ -16,7 +16,7 @@ Some ideas that I actively think about in these contexts are:
 - The effects of regularization & architecture on representations learnt by neural networks.
 - Generalizability and potential for transfer of representations across different tasks and domains.
 
-My long-term goals of understanding learning and intelligence combined with my facility for math & engineering have led to the following (somewhat) shorter-term goals that I try to actively contribute to with my research:
+My long-term goals of understanding learning + intelligence combined with my facility for math & engineering have led to the following (somewhat) shorter-term goals that I try to actively contribute to with my research:
 - Development of mathematical models and computational methods that effectively characterize as well as elucidate changes in structure, organization, and information processing in the brain across different stages of neurological age, health, and development,
 - Development of better ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure (along with supporting foundational theory or guarantees whenever possible!), and more recently,
 - Tackling AI Alignment, i.e., trying to ensure deep learning models as and when deployed, do what we want/intend for them to do.
