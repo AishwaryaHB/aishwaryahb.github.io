@@ -22,6 +22,7 @@ My long-term goals of understanding learning + intelligence combined with my fac
 - Tackling AI Alignment, i.e., trying to ensure deep learning models as and when deployed, do what we want/intend for them to do.
 
 ### Recent-ish News
+- March 2023: Our work on <a href="https://www.cosyne.org/main-meeting" target="_blank">characterizing the architectural biases of the canonical cortical microcircuit</a> was a chosen for a <a href="https://www.youtube.com/live/0eSzx_cvqJU?feature=share&t=3930" target="_blank">talk</a> at <a href="https://www.cosyne.org/" target="_blank">COSYNE '23</a> in Montréal!
 - July 2022: Our paper on leveraging <a href="https://arxiv.org/abs/2206.06563" target="_blank">persistent homology to theoretically explain the empirical successes of iterative magnitude pruning</a> has been accepted to the <a href="https://www.tagds.com/events/conferences/tag-in-machine-learning" target="_blank">TAG in ML</a> workshop at ICML 2022, with a <a href="https://www.tagds.com/events/conferences/tag-in-machine-learning#h.gc2xy1ht2ogu" target="_blank">spotlight presentation</a>! It will be published in the PMLR volume _Topology, Algebra, and Geometry in Learning_, and is also being presented at the <a href="https://www.sparseneural.net/" target="_blank">Sparsity in Neural Networks Workshop 2022</a>. This work is a joint effort with my good friend, <a href="https://github.com/JakobKrzyston" target="_blank">Jakob Krzyston</a>.
 - June 2022: I will be spending my summer in NYC at the Flatiron Institute's <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/" target="_blank">Center for Computational Neuroscience</a>, working with <a href="https://sites.google.com/site/sueyeonchung/" target="_blank">Dr. SueYeon Chung</a>!
 - October 2021: New preprint on <a href="https://arxiv.org/abs/2110.08447" target="_blank">detecting attacks on DNNs</a> using robust statistics up on arXiv! Joint work with <a href="https://www.linkedin.com/in/chandramouli-amarnath-40285a117" target="_blank">Chandramouli Amarnath</a>.
@@ -52,7 +53,9 @@ Recent news archives:
 **Mathematics:** Matrix & tensor decompositions, column subset selection, low-rank approximation, metric embeddings, convex geometry, optimization, group & representation theory, differential geometry & topology, and information geometry.<br>
 **Neuroscience:** Neural (i.e., population and sparse) coding, predictive coding, synaptic plasticity & learning rules, models of brain structure & organization, and connectomics.
 
-Outside of academic and scientific pursuits, my hobbies include reading 📖, listening to + studying classical music 🎼, watching + playing racquet sports 🎾, trying (and often failing) to keep up with cool movies + TV shows 🎥, and solving every Rubik's cube variant 🎲 I can get my hands on. I am incredibly fond of cats 🐈, enjoy history of almost any kind 📜, still identify as an ardent Federer fan 💜, and remain a Bombay kid 🌏🏠👶 at heart for life.
+Outside of academic and scientific pursuits, my hobbies include reading 📖, listening to + studying classical music 🎼, watching + playing racquet sports 🎾, trying (and often failing) to keep up with cool movies + TV shows 🎥, and solving every Rubik's cube variant 🎲 I can get my hands on.
+
+I am incredibly fond of cats 🐈, enjoy history of almost any kind 📜, still identify as an ardent Federer fan 💜, and remain a Bombay kid 🌏🏠👶 at heart for life.
 
 <!--
 ### Curriculum Vitae
