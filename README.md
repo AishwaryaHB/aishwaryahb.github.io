@@ -71,4 +71,5 @@ I am incredibly fond of cats 🐈, enjoy history of almost any kind 📜, still 
 <a href="https://twitter.com/Iishiiyaa" target="_blank"><img src="/images/twitter-logo-2.png" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/aishwaryahb" target="_blank"><img src="/images/linkedin-logo-2.png" height="30" width="30" /></a>
 <a href="https://www.facebook.com/aishvarrya/" target="_blank"><img src="/images/facebook-logo-2019.png" height="30" width="30" /></a>
+<a href="https://www.instagram.com/iishiiyaa/" target="_blank"><img src="/images/Instagram-LOGO-MPC-circle.png" height="30" width="30" /></a>
 </p>
