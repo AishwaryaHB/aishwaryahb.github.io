@@ -55,7 +55,7 @@ Recent news archives:
 
 Outside of academic and scientific pursuits, my hobbies include reading 📖, listening to + studying classical music 🎼, watching + playing racquet sports 🎾, trying (and often failing) to keep up with cool movies + TV shows 🎥, and solving every Rubik's cube variant 🎲 I can get my hands on.
 
-I am incredibly fond of cats 🐈, enjoy history of almost any kind 📜, still identify as an ardent Federer fan 💜, and remain a Bombay kid 🌏🏠👶 at heart for life.
+I am incredibly fond of cats 🐈, enjoy history of almost any kind 📜, still identify as an ardent Federer fan 💜, and remain a Bombay kid 🌏🏠👶 at heart for life. 🌈.
 
 <!--
 ### Curriculum Vitae
