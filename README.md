@@ -9,19 +9,21 @@ I'm associated with the <a href="https://ml.gatech.edu/" target="_blank">ML@GT</
 
 ### Ongoing Research
 
-Much of my proposed work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">representation learning</a> with an eye towards  explaining complex, hierarchical information processing systems. In particular I look to leverage the geometric structure of representations found in both _artificial & biological_ neural networks so as to render them more interpretable, and thereby discover their governing principles.
+<!--Much of my proposed work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">representation learning</a> with an eye towards  explaining complex, hierarchical information processing systems.-->
+My research broadly leverages structure (geometrical and topological) in the representations and architectures of _artificial & biological_ neural networks so as to render them more interpretable and thereby discover their governing principles.
 Some ideas that I actively think about in these contexts are:
 - Sparse, low-rank, and low-dimensional approximations of data.
-- Disentangling of data manifolds, the quantification of representations that live on them, their evolution across space-time, and the changes that different perturbations bring about in them.
 - The effects of regularization & architecture on representations learnt by neural networks.
+- Disentangling of data manifolds, the quantification of representations that live on them, their evolution across space-time, and the changes that different perturbations bring about in them.
 - Generalizability and potential for transfer of representations across different tasks and domains.
 
-My long-term goals of understanding learning + intelligence combined with my facility for math & engineering have led to the following (somewhat) shorter-term goals that I try to actively contribute to with my research:
+My long-term goals of understanding learning + intelligence combined with my facility for math & engineering have led to the following (somewhat) more tangible goals that I try to actively contribute to with my research:
 - Development of mathematical models and computational methods that effectively characterize as well as elucidate changes in structure, organization, and information processing in the brain across different stages of neurological age, health, and development,
 - Development of better ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure (along with supporting foundational theory or guarantees whenever possible!), and more recently,
 - Tackling AI Alignment, i.e., trying to ensure deep learning models as and when deployed, do what we want/intend for them to do.
 
 ### Recent-ish News
+- May 2024: The <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595629v1/" target="_blank">preprint</a> of our work studying the <a href="https://hchoilab.github.io/corticalRNN/" target="_blank">architectural biases of the canoncial cortical microcircuit</a> is now up on bioRxiv!
 - March 2023: Our work on <a href="https://www.cosyne.org/main-meeting" target="_blank">characterizing the architectural biases of the canonical cortical microcircuit</a> was a chosen for a <a href="https://www.youtube.com/live/0eSzx_cvqJU?feature=share&t=3930" target="_blank">talk</a> at <a href="https://www.cosyne.org/" target="_blank">COSYNE '23</a> in Montréal!
 - July 2022: Our paper on leveraging <a href="https://arxiv.org/abs/2206.06563" target="_blank">persistent homology to theoretically explain the empirical successes of iterative magnitude pruning</a> has been accepted to the <a href="https://icml.cc/virtual/2022/workshop/13447" target="_blank">TAG in ML</a> workshop at ICML 2022, with a <a href="https://icml.cc/virtual/2022/20798" target="_blank">spotlight presentation</a>! It will be published in the PMLR volume _Topology, Algebra, and Geometry in Learning_, and is also being presented at the <a href="https://www.sparseneural.net/" target="_blank">Sparsity in Neural Networks Workshop 2022</a>. This work is a joint effort with my good friend, <a href="https://github.com/JakobKrzyston" target="_blank">Jakob Krzyston</a>.
 - June 2022: I will be spending my summer in NYC at the Flatiron Institute's <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/" target="_blank">Center for Computational Neuroscience</a>, working with <a href="https://sites.google.com/site/sueyeonchung/" target="_blank">Dr. SueYeon Chung</a>!
