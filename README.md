@@ -23,7 +23,7 @@ My long-term goals of understanding learning + intelligence combined with my fac
 - Tackling AI Alignment, i.e., trying to ensure deep learning models as and when deployed, do what we want/intend for them to do.
 
 ### Recent-ish News
-- January 2025: The <a href="https://www.biorxiv.org/content/10.1101/2025.01.09.632231v1" target="_blank">preprint</a> of our paper incorporating anatomical constraints in RNN training for neuroscientific applications is up on bioRxiv!
+- January 2025: The <a href="https://www.biorxiv.org/content/10.1101/2025.01.09.632231v1" target="_blank">preprint</a> of our paper incorporating anatomical constraints in RNNs for neuroscientific applications is up on bioRxiv!
 - December 2024: Our work on <a href="https://hchoilab.github.io/biologicalRNNs/" target="_blank">constructing biologically-constrained RNNs that respect Dale's law while incorporating sparse connectivity motifs</a> has been accepted to COSYNE 2025! 
 -  May 2024: The <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595629v1/" target="_blank">preprint</a> of our work studying the <a href="https://hchoilab.github.io/corticalRNN/" target="_blank">architectural biases of the canoncial cortical microcircuit</a> is now up on bioRxiv!
 - March 2023: Our work on <a href="https://www.cosyne.org/main-meeting" target="_blank">characterizing the architectural biases of the canonical cortical microcircuit</a> was a chosen for a <a href="https://www.youtube.com/live/0eSzx_cvqJU?feature=share&t=3930" target="_blank">talk</a> at <a href="https://www.cosyne.org/" target="_blank">COSYNE '23</a> in Montréal!
