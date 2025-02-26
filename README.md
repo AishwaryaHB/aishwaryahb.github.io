@@ -18,9 +18,9 @@ Some ideas that I actively think about in these contexts are:
 - Generalizability and potential for transfer of representations across different tasks and domains.
 
 My long-term goals of understanding learning + intelligence combined with my facility for math & engineering have led to the following (somewhat) more tangible goals that I try to actively contribute to with my research:
-- Development of mathematical models and computational methods that effectively characterize as well as elucidate changes in structure, organization, and information processing in the brain across different stages of neurological age, health, and development,
-- Development of better ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure (along with supporting foundational theory or guarantees whenever possible!), and more recently,
-- Tackling AI Alignment, i.e., trying to ensure deep learning models as and when deployed, do what we want/intend for them to do.
+- Development of mathematical models and computational methods that effectively characterize as well as elucidate changes in structure, organization, and information processing in deep neural networks and the brain across different stages of development.
+- Development of "better" ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure (along with supporting foundational theory or guarantees whenever possible!)
+- Tackling AI Alignment from first principles, i.e., trying to fundamentally ensure deep learning models as and when deployed, do what we want/intend for them to do (relatively recent foray!)
 
 ### Recent-ish News
 - February 2025: I am being supported by Open Philanthropy's <a href="https://www.openphilanthropy.org/career-development-and-transition-funding/" target="_blank">Career Development & Transition Funding</a> through Spring '25 as I upskill in AI Safety and Alignment. Thanks, <a href="https://www.openphilanthropy.org/" target="_blank">Open Phil</a>!
