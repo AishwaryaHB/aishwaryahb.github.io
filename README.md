@@ -3,10 +3,6 @@
 I am a PhD candidate in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, largely interested in characterizing learning and intelligence in artificial and biological systems. Towards these ends, I spend my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
 I am primarily advised by <a href="https://hannahchoi.math.gatech.edu/people/about-hannah-choi/" target="_blank">Dr. Hannah Choi</a> and co-advised by <a href="https://siplab.gatech.edu/rozell.html" target="_blank">Dr. Chris Rozell</a>. 
 
-<!--
-I'm associated with the <a href="https://ml.gatech.edu/" target="_blank">ML@GT</a> and <a href="https://neuro.gatech.edu/" target="_blank">GT Neuro</a> research communities, and have previously worked closely with <a href="https://bme.gatech.edu/bme/faculty/Eva-Dyer" target="_blank">Dr. Eva Dyer</a>.
--->
-
 ### Ongoing Research
 
 <!--Much of my proposed work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">representation learning</a> with an eye towards  explaining complex, hierarchical information processing systems.-->
@@ -23,7 +19,7 @@ My long-term goals of understanding learning + intelligence combined with my fac
 - Tackling AI Alignment from first principles, i.e., trying to fundamentally ensure deep learning models as and when deployed, do what we want/intend for them to do (relatively recent foray!)
 
 ### Recent-ish News
--  **May 2025:** Our <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595629v1/" target="_blank">paper</a> studying the <a href="https://hchoilab.github.io/corticalRNN/" target="_blank">architectural biases of the canoncial cortical microcircuit</a> is has been accepted at <a href="https://direct.mit.edu/neco" target="_blank">Neural Computation</a>! This work was also highlighted as a <a href="https://www.youtube.com/live/0eSzx_cvqJU?feature=share&t=3930" target="_blank">talk</a> at <a href="https://www.cosyne.org/" target="_blank">COSYNE '23</a> in Montréal!
+-  **May 2025:** Our <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595629v1/" target="_blank">paper</a> studying the <a href="https://hchoilab.github.io/corticalRNN/" target="_blank">architectural biases of the canoncial cortical microcircuit</a> has been accepted at <a href="https://direct.mit.edu/neco" target="_blank">Neural Computation</a>! This work was also highlighted as a <a href="https://www.youtube.com/live/0eSzx_cvqJU?feature=share&t=3930" target="_blank">talk</a> at <a href="https://www.cosyne.org/" target="_blank">COSYNE '23</a> in Montréal!
 - **April 2025:** I participated in the <a href="https://cos.gatech.edu/news/2025-frontiers-science-intelligence" target="_blank">2025 Frontiers in Science Conference and Symposium</a> at Georgia Tech (focused on Intelligence + Neuroscience + AI), and won a best poster award!
 -  **February 2025:** I am being supported by Open Philanthropy's <a href="https://www.openphilanthropy.org/career-development-and-transition-funding/" target="_blank">Career Development & Transition Funding</a> through Spring '25 as I upskill in AI Safety and Alignment. Thanks, <a href="https://www.openphilanthropy.org/" target="_blank">Open Phil</a>!
 - **February 2025:** I've successfully defended my PhD! My thesis is titled <a href="https://bit.ly/aish-dissertation-defense" target="_blank">_Through the RNN Looking Glass: Structure-Function Relationships in Cortical Circuits for Predictive Coding_</a>, and the dissertation <a href="https://bit.ly/aish-dissertation-doc" target="_blank">document</a>, <a href="https://bit.ly/aish-dissertation-defense" target="_blank">defense talk</a>, as well as <a href="https://bit.ly/aish-dissertation-slides" target="_blank">slides</a> are all accessible online!
