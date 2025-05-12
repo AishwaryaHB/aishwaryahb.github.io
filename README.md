@@ -1,12 +1,14 @@
 ### About Me
 
-I am a PhD candidate in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, largely interested in characterizing learning and intelligence in artificial and biological systems. Towards these ends, I spend my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
-I am primarily advised by <a href="https://hannahchoi.math.gatech.edu/people/about-hannah-choi/" target="_blank">Dr. Hannah Choi</a> and co-advised by <a href="https://siplab.gatech.edu/rozell.html" target="_blank">Dr. Chris Rozell</a>. 
+I recently earned my PhD in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where my research interests broadly revolved around characterizing learning and intelligence in artificial and biological systems. Towards these ends, I spent my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
+I was primarily advised by <a href="https://hannahchoi.math.gatech.edu/people/about-hannah-choi/" target="_blank">Dr. Hannah Choi</a> and co-advised by <a href="https://siplab.gatech.edu/rozell.html" target="_blank">Dr. Chris Rozell</a>.
+
+I am currently on the industrial (research scientist in AI/ML Interpretability, Alignment, and Theoretical + Computational Neuroscience research scientist) and academic (postdoc) job markets!
 
 ### Ongoing Research
 
 <!--Much of my proposed work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">representation learning</a> with an eye towards  explaining complex, hierarchical information processing systems.-->
-My research broadly leverages structure (geometrical and topological) in the representations and architectures of _artificial & biological_ neural networks so as to render them more interpretable and thereby discover their governing principles.
+My research thus far often leverages structure (geometrical and topological) in the representations and architectures of _artificial & biological_ neural networks so as to render them more interpretable and thereby discover their governing principles.
 Some ideas that I actively think about in these contexts are:
 - Sparse, low-rank, and low-dimensional approximations of data.
 - The effects of regularization & architecture on representations learnt by neural networks.
