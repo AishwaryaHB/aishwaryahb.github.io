@@ -1,12 +1,14 @@
 ### About Me
 
 I recently earned my PhD in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where my research interests broadly revolved around characterizing learning and intelligence in artificial and biological systems.
-My thesis used RNNs as models for cortical circuits to understand structure-function relationships in the canonical cortical microcircuit under the purview of predictive coding, using a combination of tools from high-dimensional geometry, neuroscience, and signal processing.
-Additionally, it also developed methods to construct and train more biologically plausible deep learning models that are easy to scale and train with theoretical guarantees on learning efficiency and performance.
 Towards these ends, I spent my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
 I was primarily advised by <a href="https://hannahchoi.math.gatech.edu/people/about-hannah-choi/" target="_blank">Dr. Hannah Choi</a> and co-advised by <a href="https://siplab.gatech.edu/rozell.html" target="_blank">Dr. Chris Rozell</a>.
 
-I am currently on the industrial (research scientist in AI/ML Interpretability, Alignment, Safety, and Theoretical + Computational Neuroscience) and academic (postdoc) job markets! Feel free to reach out if you'd like to chat about understanding computation in natural and artificial systems, as well as using these insights to develop principled, mathematically-grounded tools that can interpret and steer LLMs and/or foundation models.
+My <a href="https://bit.ly/aish-dissertation-doc" target="_blank">thesis</a> used RNNs as models for cortical circuits to understand structure-function relationships in the canonical cortical microcircuit under the purview of predictive coding, using a combination of tools from high-dimensional geometry, neuroscience, and signal processing.
+Additionally, it also developed methods to construct and train more biologically plausible deep learning models that are easy to scale and train with theoretical guarantees on learning efficiency and performance.
+
+_I am currently on the industrial (research scientist in AI/ML Interpretability, Alignment, Safety, and Theoretical + Computational Neuroscience) and academic (postdoc) job markets!_
+Feel free to reach out with any relevant opportunities, or if you'd like to chat about understanding computation in natural and artificial systems, as well as using these insights to develop principled, mathematically-grounded tools that can interpret and steer LLMs and/or foundation models.
 
 ### Ongoing Research
 
