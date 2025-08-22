@@ -7,8 +7,8 @@ I was primarily advised by <a href="https://hannahchoi.math.gatech.edu/people/ab
 My <a href="https://bit.ly/aish-dissertation-doc" target="_blank">thesis</a> used RNNs as models for cortical circuits to understand structure-function relationships in the canonical cortical microcircuit under the purview of predictive coding, using a combination of tools from high-dimensional geometry, neuroscience, and signal processing.
 Additionally, it also developed methods to construct and train more biologically plausible deep learning models that are easy to scale and train with theoretical guarantees on learning efficiency and performance.
 
-_I am currently on the industrial (research scientist in AI/ML Interpretability, Alignment, Safety, and Theoretical + Computational Neuroscience) and academic (postdoc) job markets!_
-Feel free to reach out with any relevant opportunities, or if you'd like to chat about understanding computation in natural and artificial systems, as well as using these insights to develop principled, mathematically-grounded tools that can interpret and steer LLMs and/or foundation models.
+<!--_I am currently on the industrial (research scientist in AI/ML Interpretability, Alignment, Safety, and Theoretical + Computational Neuroscience) and academic (postdoc) job markets!_
+Feel free to reach out with any relevant opportunities, or if you'd like to chat about understanding computation in natural and artificial systems, as well as using these insights to develop principled, mathematically-grounded tools that can interpret and steer LLMs and/or foundation models.-->
 
 ### Ongoing Research
 
