@@ -1,30 +1,3 @@
-### About Me
-
-I recently earned my PhD in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where my research interests broadly revolved around characterizing learning and intelligence in artificial and biological systems.
-Towards these ends, I spent my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
-I was primarily advised by <a href="https://hannahchoi.math.gatech.edu/people/about-hannah-choi/" target="_blank">Dr. Hannah Choi</a> and co-advised by <a href="https://siplab.gatech.edu/rozell.html" target="_blank">Dr. Chris Rozell</a>.
-
-My <a href="https://bit.ly/aish-dissertation-doc" target="_blank">thesis</a> used RNNs as models for cortical circuits to understand structure-function relationships in the canonical cortical microcircuit under the purview of predictive coding, using a combination of tools from high-dimensional geometry, neuroscience, and signal processing.
-Additionally, it also developed methods to construct and train more biologically plausible deep learning models that are easy to scale and train with theoretical guarantees on learning efficiency and performance.
-
-<!--_I am currently on the industrial (research scientist in AI/ML Interpretability, Alignment, Safety, and Theoretical + Computational Neuroscience) and academic (postdoc) job markets!_
-Feel free to reach out with any relevant opportunities, or if you'd like to chat about understanding computation in natural and artificial systems, as well as using these insights to develop principled, mathematically-grounded tools that can interpret and steer LLMs and/or foundation models.-->
-
-### Ongoing Research
-
-<!--Much of my proposed work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">representation learning</a> with an eye towards  explaining complex, hierarchical information processing systems.-->
-My research thus far often leverages structure (geometrical and topological) in the representations and architectures of _artificial & biological_ neural networks so as to render them more interpretable and thereby discover their governing principles.
-Some ideas that I actively think about in these contexts are:
-- Sparse, low-rank, and low-dimensional approximations of data.
-- The effects of regularization & architecture on representations learnt by neural networks.
-- Disentangling of data manifolds, the quantification of representations that live on them, their evolution across space-time, and the changes that different perturbations bring about in them.
-- Generalizability and potential for transfer of representations across different tasks and domains.
-
-My long-term goals of understanding learning + intelligence combined with my facility for math & engineering have led to the following (somewhat) more tangible goals that I try to actively contribute to with my research:
-- Development of mathematical models and computational methods that effectively characterize as well as elucidate changes in structure, organization, and information processing in deep neural networks and the brain across different stages of development.
-- Development of "better" ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure (along with supporting foundational theory or guarantees whenever possible!)
-- Tackling AI Alignment from first principles, i.e., trying to fundamentally ensure deep learning models as and when deployed, do what we want/intend for them to do (relatively recent foray!)
-
 ### Recent-ish News
 - **November 2025:** Awesome new work (and my first as a senior author!) explaining the <a href="https://arxiv.org/abs/2511.02022" target="_blank">geometric basis of emergent misalignment in the parameter space</a> is up on arXiv! The work has been accepted to 3 workshops at NeurIPS 2025 and will be presented as an Oral at <a href="https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/UniReps#tab-accept-oral" target="_blank">UniReps</a> (along with an Honorable Mention 🏆) + has been given a Spotlight at <a href="https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MechInterp#tab-accept-spotlight" target="_blank">MechInterp</a>. Code and more are available at the <a href="https://darturi.github.io/shared-em-subspaces/" target="_blank">project page</a>! This work was carried out with one of my  summer teams at <a href="https://algoverseairesearch.org/program" target="_blank">Algoverse</a>.
 - **November 2025:** New <a href="https://www.arxiv.org/abs/2511.07685" target="_blank">preprint</a> on evaluating LLMs as deep research agents 🤖🔍📜 is now up on arXiv! This work was carried out in collaboration with <a href="https://scale.com/" target="_blank">Scale AI</a>. Learn more about the project on the <a href="https://scale.com/research/researchrubrics" target="_blank">ResearchRubrics website</a>!
@@ -59,6 +32,33 @@ Recent news archives:
 - October 2019: Our review article on <a href="https://www.sciencedirect.com/science/article/pii/S2468451119300625" target="_blank">brain mapping at high resolutions</a> is out in COBME!
 - October 2019: I contributed to 2 extended abstracts presented at <a href="https://alleninstitute.org/media/filer_public/38/be/38be5b2f-e678-45c0-9608-069116238488/bioimage2019_fullprogram_asof96.pdf" target="_blank">BioImage Informatics 2019</a> in Seattle, WA.
 -->
+
+### About Me
+
+I recently earned my PhD in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where my research interests broadly revolved around characterizing learning and intelligence in artificial and biological systems.
+Towards these ends, I spent my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
+I was primarily advised by <a href="https://hannahchoi.math.gatech.edu/people/about-hannah-choi/" target="_blank">Dr. Hannah Choi</a> and co-advised by <a href="https://siplab.gatech.edu/rozell.html" target="_blank">Dr. Chris Rozell</a>.
+
+My <a href="https://bit.ly/aish-dissertation-doc" target="_blank">thesis</a> used RNNs as models for cortical circuits to understand structure-function relationships in the canonical cortical microcircuit under the purview of predictive coding, using a combination of tools from high-dimensional geometry, neuroscience, and signal processing.
+Additionally, it also developed methods to construct and train more biologically plausible deep learning models that are easy to scale and train with theoretical guarantees on learning efficiency and performance.
+
+<!--_I am currently on the industrial (research scientist in AI/ML Interpretability, Alignment, Safety, and Theoretical + Computational Neuroscience) and academic (postdoc) job markets!_
+Feel free to reach out with any relevant opportunities, or if you'd like to chat about understanding computation in natural and artificial systems, as well as using these insights to develop principled, mathematically-grounded tools that can interpret and steer LLMs and/or foundation models.-->
+
+### Ongoing Research
+
+<!--Much of my proposed work revolves around and studies different aspects of <a href="https://arxiv.org/abs/1206.5538" target="_blank">representation learning</a> with an eye towards  explaining complex, hierarchical information processing systems.-->
+My research thus far often leverages structure (geometrical and topological) in the representations and architectures of _artificial & biological_ neural networks so as to render them more interpretable and thereby discover their governing principles.
+Some ideas that I actively think about in these contexts are:
+- Sparse, low-rank, and low-dimensional approximations of data.
+- The effects of regularization & architecture on representations learnt by neural networks.
+- Disentangling of data manifolds, the quantification of representations that live on them, their evolution across space-time, and the changes that different perturbations bring about in them.
+- Generalizability and potential for transfer of representations across different tasks and domains.
+
+My long-term goals of understanding learning + intelligence combined with my facility for math & engineering have led to the following (somewhat) more tangible goals that I try to actively contribute to with my research:
+- Development of mathematical models and computational methods that effectively characterize as well as elucidate changes in structure, organization, and information processing in deep neural networks and the brain across different stages of development.
+- Development of "better" ML/AI systems that require less supervision and/or data, learn progressively, and are more amenable to changes in task structure (along with supporting foundational theory or guarantees whenever possible!)
+- Tackling AI Alignment from first principles, i.e., trying to fundamentally ensure deep learning models as and when deployed, do what we want/intend for them to do (relatively recent foray!)
 
 ### Interests & Hobbies
 
