@@ -39,7 +39,7 @@ Recent news archives:
 ### About Me
 
 I am currently a postdoc working with <a href="https://www.stjude.org/research/labs/zakharenko-lab.html" target="_blank">Dr. Stanislav Zakharenko</a> at <a href="https://www.stjude.org/research.html" target="_blank">St. Jude Children's Research Hospital</a> in their <a href="https://www.stjude.org/research/departments/developmental-neurobiology.html" target="_blank">Department of Developmental Neurobiology</a>.
-My primary research project looks to elucidate the neuronal circuit mechanisms underlying hallucinations in mouse models of schizophrenia using RNNs as model organisms and mechanistic interpretability.
+My primary research project looks to elucidate the neuronal circuit mechanisms underlying hallucinations in mouse models of schizophrenia using RNNs as their model organisms and developing mechanistic interpretability tools that can be deployed on them scalably.
 
 I recently earned my PhD in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>, where my research interests broadly revolved around characterizing learning and intelligence in artificial and biological systems.
 Towards these ends, I spent my time studying both machine learning and theoretical + computational neuroscience, with a healthy smattering of many topics in applied mathematics.
